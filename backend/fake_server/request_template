@@ -1,0 +1,4 @@
+GET /search?q=test HTTP/1.1
+Host: www.bing.com
+User-Agent: curl/7.54.0
+Accept: */*
